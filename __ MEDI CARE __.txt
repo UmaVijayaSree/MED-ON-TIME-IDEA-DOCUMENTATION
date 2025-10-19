@@ -1,5 +1,5 @@
-﻿<< M E D   ON   T I M E >>
-Med On Time – Smart Medicine Reminder App
+﻿<< M E D I  C A R E>>
+Medi care – Smart Medicine Reminder App
 
 
 
@@ -7,12 +7,12 @@ Med On Time – Smart Medicine Reminder App
 A. Project Overview
 
 
-Project Name: Med On Time
+Project Name: Medi care
 Type: Full-stack Web and Mobile Application
 
 
 Overview:
-Med On Time is a smart medication reminder application designed to help people take their medicines on time. It sends timely notifications, tracks medicine intake history, and allows users to manage their schedules easily.
+Medi care is a smart medication reminder application designed to help people take their medicines on time. It sends timely notifications, tracks medicine intake history, and allows users to manage their schedules easily.
 
 
 Target Users:
@@ -54,6 +54,7 @@ Backend:-  Node.js, Express.js
 Database:-  MongoDB (Atlas Cloud or Local)
 Notifications:-  Web Push API, Expo Notifications
 Development Tools:-  Visual Studio Code, Node.js, npm, MongoDB, Expo CLI
+smart features like ai virtual ASSISTANT
 
 
 F. System Architecture
@@ -123,4 +124,5 @@ AI-based recommendations for better health management
 K. Conclusion –
 
 
-Med On Time is a complete, user-friendly, and reliable solution for managing medication schedules. It helps users take control of their health by ensuring that medicines are taken on time, providing peace of mind for both patients and caregivers.
+
+MedI CARE is a complete, user-friendly, and reliable solution for managing medication schedules. It helps users take control of their health by ensuring that medicines are taken on time, providing peace of mind for both patients and caregivers.
